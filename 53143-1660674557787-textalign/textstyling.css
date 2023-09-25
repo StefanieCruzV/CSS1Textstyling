@@ -1,0 +1,33 @@
+h1{
+background-color:black ;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: aqua;
+text-align: left;
+font-style: oblique;
+padding: 15px;
+margin: 10;
+
+}
+h1 span{
+    color: white;
+
+}
+h2{
+    background-color:rgb(87, 28, 142) ;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    display: block;
+    background-color:rgb(114, 156, 224);
+    color: black;
+    text-align: right;
+    padding: 10px;
+    margin: 10;
+   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
